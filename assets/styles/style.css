@@ -115,7 +115,7 @@ h1 {
 	border: 2px solid var(--color-primary);
 }
 
-.form-control .icon-error {
+.form-control img {
 	width: 2.4rem;
 	height: 2.4rem;
 	position: absolute;
@@ -134,7 +134,7 @@ h1 {
 	visibility: hidden;
 }
 
-.form-control.error .icon-error,
+.form-control.error img,
 .form-control.error small {
 	visibility: visible;
 }
